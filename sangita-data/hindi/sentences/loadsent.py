@@ -1,50 +1,51 @@
-import sent0
-import sent1
-import sent2
-import sent3
-import sent4
-import sent5
-import sent6
-import sent7
-import sent8
-import sent9
-import sent10
-import sent11
-import sent12
-import sent13
-import sent14
-import sent15
-import sent16
-import sent17
-import sent18
-import sent19
-import sent20
-import sent21
-import sent22
-import sent23
-import sent24
-import sent25
-import sent26
-import sent27
-import sent28
-import sent29
-import sent30
-import sent31
-import sent32
-import sent33
-import sent34
-import sent35
-import sent36
-import sent37
-import sent38
-import sent39
-import sent40
-import sent41
-import sent42
-import sent43
-import sent44
-import sent45
-import sent46
+import sangita_data.hindi.sentences.sent0 as sent0
+import sangita_data.hindi.sentences.sent1 as sent1
+import sangita_data.hindi.sentences.sent2 as sent2
+import sangita_data.hindi.sentences.sent3 as sent3
+import sangita_data.hindi.sentences.sent4 as sent4
+import sangita_data.hindi.sentences.sent5 as sent5
+import sangita_data.hindi.sentences.sent6 as sent6
+import sangita_data.hindi.sentences.sent7 as sent7
+import sangita_data.hindi.sentences.sent8 as sent8
+import sangita_data.hindi.sentences.sent9 as sent9
+import sangita_data.hindi.sentences.sent10 as sent10
+import sangita_data.hindi.sentences.sent11 as sent11
+import sangita_data.hindi.sentences.sent12 as sent12
+import sangita_data.hindi.sentences.sent13 as sent13
+import sangita_data.hindi.sentences.sent14 as sent14
+import sangita_data.hindi.sentences.sent15 as sent15
+import sangita_data.hindi.sentences.sent16 as sent16
+import sangita_data.hindi.sentences.sent17 as sent17
+import sangita_data.hindi.sentences.sent18 as sent18
+import sangita_data.hindi.sentences.sent19 as sent19
+import sangita_data.hindi.sentences.sent20 as sent20
+import sangita_data.hindi.sentences.sent21 as sent21
+import sangita_data.hindi.sentences.sent22 as sent22
+import sangita_data.hindi.sentences.sent23 as sent23
+import sangita_data.hindi.sentences.sent24 as sent24
+import sangita_data.hindi.sentences.sent25 as sent25
+import sangita_data.hindi.sentences.sent26 as sent26
+import sangita_data.hindi.sentences.sent27 as sent27
+import sangita_data.hindi.sentences.sent28 as sent28
+import sangita_data.hindi.sentences.sent29 as sent29
+import sangita_data.hindi.sentences.sent30 as sent30
+import sangita_data.hindi.sentences.sent31 as sent31
+import sangita_data.hindi.sentences.sent32 as sent32
+import sangita_data.hindi.sentences.sent33 as sent33
+import sangita_data.hindi.sentences.sent34 as sent34
+import sangita_data.hindi.sentences.sent35 as sent35
+import sangita_data.hindi.sentences.sent36 as sent36
+import sangita_data.hindi.sentences.sent37 as sent37
+import sangita_data.hindi.sentences.sent38 as sent38
+import sangita_data.hindi.sentences.sent39 as sent39
+import sangita_data.hindi.sentences.sent40 as sent40
+import sangita_data.hindi.sentences.sent41 as sent41
+import sangita_data.hindi.sentences.sent42 as sent42
+import sangita_data.hindi.sentences.sent43 as sent43
+import sangita_data.hindi.sentences.sent44 as sent44
+import sangita_data.hindi.sentences.sent45 as sent45
+import sangita_data.hindi.sentences.sent46 as sent46
+
 
 def drawlist():
     sent = sent0.drawlist()
@@ -95,3 +96,4 @@ def drawlist():
     sent = sent + sent45.drawlist()
     sent = sent + sent46.drawlist()
     return sent
+

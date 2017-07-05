@@ -29,7 +29,7 @@ if __name__ == "__main__":
         description = "Data and Corpus pertaining to Sangita",
         url='https://github.com/djokester/sangita-data',
         keywords= ['nlp', 'hindi', 'linguistics'],
-        packages = ['sangita-data','sangita-data.hindi', 'sangita-data.hindi.sentences'],
+        packages = ['sangita_data','sangita_data.hindi', 'sangita_data.hindi.sentences'],
         license = 'Apache License'
     )
 
