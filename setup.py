@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+"""
+@author: djokester
+Samriddhi Sinha,
+IIT Kharagpur
+"""
 import sys
 from setuptools import setup
 
